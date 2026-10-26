@@ -6,6 +6,8 @@ This Excel analytics project investigates delivery performance for a food-delive
 
 **Tools:** Microsoft Excel, PivotTables, calculated/helper columns, charts, and an interactive-style dashboard.
 
+**Google Drive link for Excel fille:** https://docs.google.com/spreadsheets/d/1M7apBUuTij6j-3x3p4qjHLyBR5BaFRVU/edit?usp=drive_link&ouid=106933887791179439291&rtpof=true&sd=true
+
 **Dataset:** [Porter Delivery Time Estimation — Kaggle](https://www.kaggle.com/datasets/ranitsarkar01/porter-delivery-time-estimation)
 
 ## Dashboard KPIs

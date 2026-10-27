@@ -1,26 +1,5 @@
 # Porter: Optimizing Delivery for the Digital Diner
 
-## Project Overview
-
-This Excel analytics project investigates delivery performance for a food-delivery platform using order, restaurant-category, market, timestamp, order-value, and delivery-partner data. The goal is to identify delivery bottlenecks and provide operational recommendations that could improve delivery speed and customer experience.
-
-**Tools:** Microsoft Excel, PivotTables, calculated/helper columns, charts, and an interactive-style dashboard.
-
-**Google Drive link for Excel fille:** https://docs.google.com/spreadsheets/d/1M7apBUuTij6j-3x3p4qjHLyBR5BaFRVU/edit?usp=drive_link&ouid=106933887791179439291&rtpof=true&sd=true
-
-**Dataset:** [Porter Delivery Time Estimation — Kaggle](https://www.kaggle.com/datasets/ranitsarkar01/porter-delivery-time-estimation)
-
-## Dashboard KPIs
-
-| KPI | Result |
-|---|---:|
-| Orders counted by market | 196,441 |
-| Average delivery time | 48.47 minutes |
-| Average order value (subtotal) | 2,682.33 |
-| Orders delivered within 30 minutes | 13% |
-
-> The workbook contains 197,428 order records, while 196,441 have a non-blank `market_id`. The market-volume KPI therefore counts records with a market ID; totals can differ when a field has missing values.
-
 ## Basic-Level Questions and Findings
 
 ### 1. What is the distribution of order volumes across markets?
@@ -246,15 +225,6 @@ Across these six market averages, the correlation is approximately **+0.149**, w
 
 **Not answerable with the available dataset.** The workbook does not contain a customer ID or order-history identifier that can reliably distinguish first-time from repeat customers. This question was excluded rather than inferring customer status without evidence.
 
-## Key Recommendations
-
-1. **Prioritize high-volume markets:** Plan delivery-partner capacity around Markets 2 and 4, which have the highest recorded order volumes.
-2. **Investigate slow categories and stores:** Review Italian-category orders and the five anonymized stores with the longest helper delivery times. Validate order counts before taking action.
-3. **Improve weekend operations:** Saturday and Sunday have the highest order volumes; Sunday also has the highest average delivery time.
-4. **Review protocol performance:** Investigate why Protocol 7 is faster and Protocol 6 slower, after mapping protocol codes to their real operational meanings.
-5. **Strengthen data quality checks:** Investigate extreme delivery durations, negative partner/order values, missing market IDs, and the unusual early-morning order concentration.
-6. **Use multiple workload indicators:** Combine outstanding orders, partner availability, and store/market context instead of using a single metric to schedule partners.
-7. **Improve the next analysis iteration:** Add customer IDs, store locations, delivery distance, preparation/pickup timestamps, and documented protocol labels to enable deeper analysis.
 
 ## Limitations
 

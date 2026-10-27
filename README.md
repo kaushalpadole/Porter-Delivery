@@ -124,31 +124,14 @@ To improve the delivery system further, the following actions are recommended:
 
 ## Dashboard Preview
 
-![Dashboard Overview](dashboard.png)
+<img width="1656" height="687" alt="image" src="https://github.com/user-attachments/assets/f3aab1b2-998c-4cbd-8b98-28592f392eb4" />
 
-## Screenshots
-
-Below are a few representative screenshots from the project:
-
-![Project Screenshot 1](images/Screenshot%202026-09-22%20000401.png)
-![Project Screenshot 2](images/Screenshot%202026-09-22%20000845.png)
-![Project Screenshot 3](images/Screenshot%202026-09-22%20001150.png)
 
 ## Summary
 
 This project demonstrates how data analysis can turn raw delivery data into operational insight. It is a practical example of using Excel for business intelligence, especially when the objective is to identify bottlenecks, improve service quality, and support data-backed operational decisions.
 
 The project is useful not only as a dashboard exercise but also as a model for how businesses can approach service performance analysis using structured, measurable KPIs.
-
-## Future Enhancements
-
-Possible future enhancements include:
-
-- Building a more interactive Power BI dashboard
-- Automating data cleaning and KPI updates with Excel Power Query
-- Extending the analysis into Python or SQL for deeper statistical modeling
-- Adding forecasting to estimate demand and staffing needs
-- Benchmarking performance across markets and time windows
 
 ## Final Note
 

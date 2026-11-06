@@ -4,6 +4,11 @@ This repository documents a delivery performance analysis project for a food-del
 
 **Google Drive link for Excel fille:** https://docs.google.com/spreadsheets/d/1M7apBUuTij6j-3x3p4qjHLyBR5BaFRVU/edit?usp=drive_link&ouid=106933887791179439291&rtpof=true&sd=true
 
+## Dashboard Preview
+
+<img width="1656" height="687" alt="image" src="https://github.com/user-attachments/assets/f3aab1b2-998c-4cbd-8b98-28592f392eb4" />
+
+
 ## Project Overview
 
 The project analyzes a dataset of delivery orders using Excel-based business intelligence workflows. It focuses on understanding:
@@ -121,10 +126,6 @@ To improve the delivery system further, the following actions are recommended:
 6. Capture more detailed operational fields such as actual pickup time, distance, restaurant prep time, and customer order history.
 7. Add richer labels for protocol codes, market metadata, and store context to enable more meaningful interpretation.
 8. Use a dashboard and reporting framework that can support weekly or monthly operational reviews.
-
-## Dashboard Preview
-
-<img width="1656" height="687" alt="image" src="https://github.com/user-attachments/assets/f3aab1b2-998c-4cbd-8b98-28592f392eb4" />
 
 
 ## Summary

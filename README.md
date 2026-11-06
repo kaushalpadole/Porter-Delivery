@@ -6,7 +6,7 @@ This repository documents a delivery performance analysis project for a food-del
 
 ## Dashboard Preview
 
-<img width="1656" height="687" alt="image" src="https://github.com/user-attachments/assets/f3aab1b2-998c-4cbd-8b98-28592f392eb4" />
+<img width="1656" height="687" alt="image" src="https://github.com/user-attachments/assets/47eadd0d-1d66-4dd3-98e3-2d98cfebfd13" />
 
 
 ## Project Overview

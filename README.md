@@ -2,11 +2,12 @@
 
 This repository documents a delivery performance analysis project for a food-delivery platform using Porter delivery data. The goal of the project is to study order flow, delivery efficiency, market-level demand, restaurant category behavior, and partner workload to identify patterns that can improve delivery speed and operational decisions.
 
-**Google Drive link for Excel fille:** https://docs.google.com/spreadsheets/d/1M7apBUuTij6j-3x3p4qjHLyBR5BaFRVU/edit?usp=drive_link&ouid=106933887791179439291&rtpof=true&sd=true
+**Google Drive link for Excel fille:** https://docs.google.com/spreadsheets/d/1e3DIbttM3tkiroZuk10Si7KnzJ01mQg9/edit?usp=drive_link&ouid=106933887791179439291&rtpof=true&sd=true
 
 ## Dashboard Preview
 
-<img width="1656" height="687" alt="image" src="https://github.com/user-attachments/assets/47eadd0d-1d66-4dd3-98e3-2d98cfebfd13" />
+<img width="1572" height="655" alt="image" src="https://github.com/user-attachments/assets/4ca41ead-a1ed-4165-83c0-ad42bf6e5f44" />
+
 
 
 ## Project Overview
